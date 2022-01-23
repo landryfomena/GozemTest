@@ -1,4 +1,4 @@
-# Gozet Tes
+# Gozet Test
 
 Gozem test is a test application for Gozem recruitment. Thetest is mostly focused on Geolocation as Gozem activity works with map 
 
