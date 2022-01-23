@@ -12,6 +12,10 @@ Gozem test is a test application for Gozem recruitment. Thetest is mostly focuse
 
 ## Accesses to connect to the application
 # the default user is (gozem.test@gmail.com/123456) you can directly login with this
+# on android studio
+* Generate the SHA-1 of zour project under gradle/signinReport
+# On firebase BOM
+* Under project setings add zour SHA-1
 * go to firebase BOM
 * under authentication
 * under unthentication method(email/password)
