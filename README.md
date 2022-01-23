@@ -21,7 +21,7 @@ Gozem test is a test application for Gozem recruitment. Thetest is mostly focuse
 
 ## Architecture
 
-
+https://user.oc-static.com/upload/2021/12/06/16387959038246_image34.png
 # Used
 
 
@@ -31,7 +31,7 @@ Gozem test is a test application for Gozem recruitment. Thetest is mostly focuse
 * Backend: FireBase
 * LocalCache:Room
 *Preferences: SharedPrefenreces
-https://user.oc-static.com/upload/2021/12/06/16387959038246_image34.png
+
 
 # Could use but did use
 * Dependencz injection
