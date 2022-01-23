@@ -33,7 +33,7 @@ https://user.oc-static.com/upload/2021/12/06/16387959038246_image34.png
 *Preferences: SharedPrefenreces
 
 
-# Could use but did use
+# Could use but didn't use
 * Dependencz injection
 * RX java
 
